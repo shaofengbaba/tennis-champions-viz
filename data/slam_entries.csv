@@ -1,0 +1,374 @@
+player_id,player_name,year,tourney_id,tourney_name,surface,age,rank,recorded_matches,played_matches,wins,losses,furthest_round,title,result
+101736,Andre Agassi,1986,1986-560,US Open,Hard,16.3,105.0,1,1,0,1,1,False,R128
+101736,Andre Agassi,1987,1987-520,Roland Garros,Clay,17.0,62.0,2,2,1,1,2,False,R64
+101736,Andre Agassi,1987,1987-540,Wimbledon,Grass,17.1,61.0,1,1,0,1,1,False,R128
+101736,Andre Agassi,1987,1987-560,US Open,Hard,17.3,70.0,1,1,0,1,1,False,R128
+101736,Andre Agassi,1988,1988-520,Roland Garros,Clay,18.0,11.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,1988,1988-560,US Open,Hard,18.3,4.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,1989,1989-520,Roland Garros,Clay,19.0,5.0,3,3,2,1,3,False,R32
+101736,Andre Agassi,1989,1989-560,US Open,Hard,19.3,6.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,1990,1990-520,Roland Garros,Clay,20.0,5.0,7,7,6,1,7,False,F
+101736,Andre Agassi,1990,1990-560,US Open,Hard,20.3,4.0,7,7,6,1,7,False,F
+101736,Andre Agassi,1991,1991-520,Roland Garros,Clay,21.0,4.0,7,7,6,1,7,False,F
+101736,Andre Agassi,1991,1991-540,Wimbledon,Grass,21.1,5.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,1991,1991-560,US Open,Hard,21.3,7.0,1,1,0,1,1,False,R128
+101736,Andre Agassi,1992,1992-520,Roland Garros,Clay,22.0,12.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,1992,1992-540,Wimbledon,Grass,22.1,14.0,7,7,7,0,7,True,W
+101736,Andre Agassi,1992,1992-560,US Open,Hard,22.3,9.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,1993,1993-540,Wimbledon,Grass,23.1,13.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,1993,1993-560,US Open,Hard,23.3,16.0,1,1,0,1,1,False,R128
+101736,Andre Agassi,1994,1994-520,Roland Garros,Clay,24.0,19.0,2,2,1,1,2,False,R64
+101736,Andre Agassi,1994,1994-540,Wimbledon,Grass,24.1,18.0,4,4,3,1,4,False,R16
+101736,Andre Agassi,1994,1994-560,US Open,Hard,24.3,20.0,7,7,7,0,7,True,W
+101736,Andre Agassi,1995,1995-520,Roland Garros,Clay,25.0,1.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,1995,1995-540,Wimbledon,Grass,25.1,1.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,1995,1995-560,US Open,Hard,25.3,1.0,7,7,6,1,7,False,F
+101736,Andre Agassi,1995,1995-580,Australian Open,Hard,24.7,2.0,7,7,7,0,7,True,W
+101736,Andre Agassi,1996,1996-520,Roland Garros,Clay,26.0,3.0,2,2,1,1,2,False,R64
+101736,Andre Agassi,1996,1996-540,Wimbledon,Grass,26.1,3.0,1,1,0,1,1,False,R128
+101736,Andre Agassi,1996,1996-560,US Open,Hard,26.3,9.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,1996,1996-580,Australian Open,Hard,25.7,2.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,1997,1997-560,US Open,Hard,27.3,63.0,4,4,3,1,4,False,R16
+101736,Andre Agassi,1998,1998-520,Roland Garros,Clay,28.0,20.0,1,1,0,1,1,False,R128
+101736,Andre Agassi,1998,1998-540,Wimbledon,Grass,28.1,19.0,2,2,1,1,2,False,R64
+101736,Andre Agassi,1998,1998-560,US Open,Hard,28.3,8.0,4,4,3,1,4,False,R16
+101736,Andre Agassi,1998,1998-580,Australian Open,Hard,27.7,87.0,4,4,3,1,4,False,R16
+101736,Andre Agassi,1999,1999-520,Roland Garros,Clay,29.0,14.0,7,7,7,0,7,True,W
+101736,Andre Agassi,1999,1999-540,Wimbledon,Grass,29.1,4.0,7,7,6,1,7,False,F
+101736,Andre Agassi,1999,1999-560,US Open,Hard,29.3,2.0,7,7,7,0,7,True,W
+101736,Andre Agassi,1999,1999-580,Australian Open,Hard,28.7,6.0,4,4,3,1,4,False,R16
+101736,Andre Agassi,2000,2000-520,Roland Garros,Clay,30.0,1.0,2,2,1,1,2,False,R64
+101736,Andre Agassi,2000,2000-540,Wimbledon,Grass,30.1,1.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,2000,2000-560,US Open,Hard,30.3,1.0,2,2,1,1,2,False,R64
+101736,Andre Agassi,2000,2000-580,Australian Open,Hard,29.7,1.0,7,7,7,0,7,True,W
+101736,Andre Agassi,2001,2001-520,Roland Garros,Clay,31.0,3.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,2001,2001-540,Wimbledon,Grass,31.1,2.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,2001,2001-560,US Open,Hard,31.3,2.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,2001,2001-580,Australian Open,Hard,30.7,6.0,7,7,7,0,7,True,W
+101736,Andre Agassi,2002,2002-520,Roland Garros,Clay,32.0,4.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,2002,2002-540,Wimbledon,Grass,32.1,4.0,2,2,1,1,2,False,R64
+101736,Andre Agassi,2002,2002-560,US Open,Hard,32.3,6.0,7,7,6,1,7,False,F
+101736,Andre Agassi,2003,2003-520,Roland Garros,Clay,33.0,2.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,2003,2003-540,Wimbledon,Grass,33.1,1.0,4,4,3,1,4,False,R16
+101736,Andre Agassi,2003,2003-560,US Open,Hard,33.3,1.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,2003,2003-580,Australian Open,Hard,32.7,2.0,7,7,7,0,7,True,W
+101736,Andre Agassi,2004,2004-520,Roland Garros,Clay,34.0,6.0,1,1,0,1,1,False,R128
+101736,Andre Agassi,2004,2004-560,US Open,Hard,34.3,7.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,2004,2004-580,Australian Open,Hard,33.7,4.0,6,6,5,1,6,False,SF
+101736,Andre Agassi,2005,2005-520,Roland Garros,Clay,35.0,7.0,1,1,0,1,1,False,R128
+101736,Andre Agassi,2005,2005-560,US Open,Hard,35.3,7.0,7,7,6,1,7,False,F
+101736,Andre Agassi,2005,2005-580,Australian Open,Hard,34.7,8.0,5,5,4,1,5,False,QF
+101736,Andre Agassi,2006,2006-540,Wimbledon,Grass,36.1,20.0,3,3,2,1,3,False,R32
+101736,Andre Agassi,2006,2006-560,US Open,Hard,36.3,39.0,3,3,2,1,3,False,R32
+101948,Pete Sampras,1988,1988-560,US Open,Hard,17.0,188.0,1,1,0,1,1,False,R128
+101948,Pete Sampras,1989,1989-520,Roland Garros,Clay,17.7,92.0,2,2,1,1,2,False,R64
+101948,Pete Sampras,1989,1989-540,Wimbledon,Grass,17.8,86.0,1,1,0,1,1,False,R128
+101948,Pete Sampras,1989,1989-560,US Open,Hard,18.0,91.0,4,4,3,1,4,False,R16
+101948,Pete Sampras,1989,1989-580,Australian Open,Hard,17.4,87.0,1,1,0,1,1,False,R128
+101948,Pete Sampras,1990,1990-540,Wimbledon,Grass,18.8,19.0,1,1,0,1,1,False,R128
+101948,Pete Sampras,1990,1990-560,US Open,Hard,19.0,12.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1990,1990-580,Australian Open,Hard,18.4,56.0,4,4,3,1,4,False,R16
+101948,Pete Sampras,1991,1991-520,Roland Garros,Clay,19.7,6.0,2,2,1,1,2,False,R64
+101948,Pete Sampras,1991,1991-540,Wimbledon,Grass,19.8,9.0,2,2,1,1,2,False,R64
+101948,Pete Sampras,1991,1991-560,US Open,Hard,20.0,6.0,5,5,4,1,5,False,QF
+101948,Pete Sampras,1992,1992-520,Roland Garros,Clay,20.7,3.0,5,5,4,1,5,False,QF
+101948,Pete Sampras,1992,1992-540,Wimbledon,Grass,20.8,3.0,6,6,5,1,6,False,SF
+101948,Pete Sampras,1992,1992-560,US Open,Hard,21.0,3.0,7,7,6,1,7,False,F
+101948,Pete Sampras,1993,1993-520,Roland Garros,Clay,21.7,1.0,5,5,4,1,5,False,QF
+101948,Pete Sampras,1993,1993-540,Wimbledon,Grass,21.8,1.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1993,1993-560,US Open,Hard,22.0,2.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1993,1993-580,Australian Open,Hard,21.4,3.0,6,6,5,1,6,False,SF
+101948,Pete Sampras,1994,1994-520,Roland Garros,Clay,22.7,1.0,5,5,4,1,5,False,QF
+101948,Pete Sampras,1994,1994-540,Wimbledon,Grass,22.8,1.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1994,1994-560,US Open,Hard,23.0,1.0,4,4,3,1,4,False,R16
+101948,Pete Sampras,1994,1994-580,Australian Open,Hard,22.4,1.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1995,1995-520,Roland Garros,Clay,23.7,2.0,1,1,0,1,1,False,R128
+101948,Pete Sampras,1995,1995-540,Wimbledon,Grass,23.8,2.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1995,1995-560,US Open,Hard,24.0,2.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1995,1995-580,Australian Open,Hard,23.4,1.0,7,7,6,1,7,False,F
+101948,Pete Sampras,1996,1996-520,Roland Garros,Clay,24.7,1.0,6,6,5,1,6,False,SF
+101948,Pete Sampras,1996,1996-540,Wimbledon,Grass,24.8,1.0,5,5,4,1,5,False,QF
+101948,Pete Sampras,1996,1996-560,US Open,Hard,25.0,1.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1996,1996-580,Australian Open,Hard,24.4,1.0,3,3,2,1,3,False,R32
+101948,Pete Sampras,1997,1997-520,Roland Garros,Clay,25.7,1.0,3,3,2,1,3,False,R32
+101948,Pete Sampras,1997,1997-540,Wimbledon,Grass,25.8,1.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1997,1997-560,US Open,Hard,26.0,1.0,4,4,3,1,4,False,R16
+101948,Pete Sampras,1997,1997-580,Australian Open,Hard,25.4,1.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1998,1998-520,Roland Garros,Clay,26.7,1.0,2,2,1,1,2,False,R64
+101948,Pete Sampras,1998,1998-540,Wimbledon,Grass,26.8,1.0,7,7,7,0,7,True,W
+101948,Pete Sampras,1998,1998-560,US Open,Hard,27.0,1.0,6,6,5,1,6,False,SF
+101948,Pete Sampras,1998,1998-580,Australian Open,Hard,26.4,1.0,5,5,4,1,5,False,QF
+101948,Pete Sampras,1999,1999-520,Roland Garros,Clay,27.7,2.0,2,2,1,1,2,False,R64
+101948,Pete Sampras,1999,1999-540,Wimbledon,Grass,27.8,1.0,7,7,7,0,7,True,W
+101948,Pete Sampras,2000,2000-520,Roland Garros,Clay,28.7,2.0,1,1,0,1,1,False,R128
+101948,Pete Sampras,2000,2000-540,Wimbledon,Grass,28.8,3.0,7,7,7,0,7,True,W
+101948,Pete Sampras,2000,2000-560,US Open,Hard,29.0,4.0,7,7,6,1,7,False,F
+101948,Pete Sampras,2000,2000-580,Australian Open,Hard,28.4,3.0,6,6,5,1,6,False,SF
+101948,Pete Sampras,2001,2001-520,Roland Garros,Clay,29.7,5.0,2,2,1,1,2,False,R64
+101948,Pete Sampras,2001,2001-540,Wimbledon,Grass,29.8,6.0,4,4,3,1,4,False,R16
+101948,Pete Sampras,2001,2001-560,US Open,Hard,30.0,10.0,7,7,6,1,7,False,F
+101948,Pete Sampras,2001,2001-580,Australian Open,Hard,29.4,3.0,4,4,3,1,4,False,R16
+101948,Pete Sampras,2002,2002-520,Roland Garros,Clay,30.7,12.0,1,1,0,1,1,False,R128
+101948,Pete Sampras,2002,2002-540,Wimbledon,Grass,30.8,13.0,2,2,1,1,2,False,R64
+101948,Pete Sampras,2002,2002-560,US Open,Hard,31.0,17.0,7,7,7,0,7,True,W
+101948,Pete Sampras,2002,2002-580,Australian Open,Hard,30.4,10.0,4,4,3,1,4,False,R16
+103819,Roger Federer,1999,1999-520,Roland Garros,Clay,17.7,111.0,1,1,0,1,1,False,R128
+103819,Roger Federer,1999,1999-540,Wimbledon,Grass,17.8,103.0,1,1,0,1,1,False,R128
+103819,Roger Federer,2000,2000-520,Roland Garros,Clay,18.8,54.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2000,2000-540,Wimbledon,Grass,18.8,35.0,1,1,0,1,1,False,R128
+103819,Roger Federer,2000,2000-560,US Open,Hard,19.0,40.0,3,3,2,1,3,False,R32
+103819,Roger Federer,2000,2000-580,Australian Open,Hard,18.4,62.0,3,3,2,1,3,False,R32
+103819,Roger Federer,2001,2001-520,Roland Garros,Clay,19.8,18.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2001,2001-540,Wimbledon,Grass,19.8,15.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2001,2001-560,US Open,Hard,20.0,13.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2001,2001-580,Australian Open,Hard,19.4,29.0,3,3,2,1,3,False,R32
+103819,Roger Federer,2002,2002-520,Roland Garros,Clay,20.7,8.0,1,1,0,1,1,False,R128
+103819,Roger Federer,2002,2002-540,Wimbledon,Grass,20.8,9.0,1,1,0,1,1,False,R128
+103819,Roger Federer,2002,2002-560,US Open,Hard,21.0,13.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2002,2002-580,Australian Open,Hard,20.4,12.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2003,2003-520,Roland Garros,Clay,21.7,5.0,1,1,0,1,1,False,R128
+103819,Roger Federer,2003,2003-540,Wimbledon,Grass,21.8,5.0,7,7,7,0,7,True,W
+103819,Roger Federer,2003,2003-560,US Open,Hard,22.0,2.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2003,2003-580,Australian Open,Hard,21.4,6.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2004,2004-520,Roland Garros,Clay,22.7,1.0,3,3,2,1,3,False,R32
+103819,Roger Federer,2004,2004-540,Wimbledon,Grass,22.8,1.0,7,7,7,0,7,True,W
+103819,Roger Federer,2004,2004-560,US Open,Hard,23.0,1.0,7,6,6,0,7,True,W
+103819,Roger Federer,2004,2004-580,Australian Open,Hard,22.4,2.0,7,7,7,0,7,True,W
+103819,Roger Federer,2005,2005-520,Roland Garros,Clay,23.7,1.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2005,2005-540,Wimbledon,Grass,23.8,1.0,7,7,7,0,7,True,W
+103819,Roger Federer,2005,2005-560,US Open,Hard,24.0,1.0,7,7,7,0,7,True,W
+103819,Roger Federer,2005,2005-580,Australian Open,Hard,23.4,1.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2006,2006-520,Roland Garros,Clay,24.8,1.0,7,7,6,1,7,False,F
+103819,Roger Federer,2006,2006-540,Wimbledon,Grass,24.8,1.0,7,7,7,0,7,True,W
+103819,Roger Federer,2006,2006-560,US Open,Hard,25.0,1.0,7,7,7,0,7,True,W
+103819,Roger Federer,2006,2006-580,Australian Open,Hard,24.4,1.0,7,7,7,0,7,True,W
+103819,Roger Federer,2007,2007-520,Roland Garros,Clay,25.8,1.0,7,7,6,1,7,False,F
+103819,Roger Federer,2007,2007-540,Wimbledon,Grass,25.8,1.0,7,6,6,0,7,True,W
+103819,Roger Federer,2007,2007-560,US Open,Hard,26.0,1.0,7,7,7,0,7,True,W
+103819,Roger Federer,2007,2007-580,Australian Open,Hard,25.4,1.0,7,7,7,0,7,True,W
+103819,Roger Federer,2008,2008-520,Roland Garros,Clay,26.7,1.0,7,7,6,1,7,False,F
+103819,Roger Federer,2008,2008-540,Wimbledon,Grass,26.8,1.0,7,7,6,1,7,False,F
+103819,Roger Federer,2008,2008-560,US Open,Hard,27.0,2.0,7,7,7,0,7,True,W
+103819,Roger Federer,2008,2008-580,Australian Open,Hard,26.4,1.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2009,2009-520,Roland Garros,Clay,27.7,2.0,7,7,7,0,7,True,W
+103819,Roger Federer,2009,2009-540,Wimbledon,Grass,27.8,2.0,7,7,7,0,7,True,W
+103819,Roger Federer,2009,2009-560,US Open,Hard,28.0,1.0,7,7,6,1,7,False,F
+103819,Roger Federer,2009,2009-580,Australian Open,Hard,27.4,2.0,7,7,6,1,7,False,F
+103819,Roger Federer,2010,2010-520,Roland Garros,Clay,28.7,1.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2010,2010-540,Wimbledon,Grass,28.8,2.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2010,2010-560,US Open,Hard,29.0,2.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2010,2010-580,Australian Open,Hard,28.4,1.0,7,7,7,0,7,True,W
+103819,Roger Federer,2011,2011-520,Roland Garros,Clay,29.7,3.0,7,7,6,1,7,False,F
+103819,Roger Federer,2011,2011-540,Wimbledon,Grass,29.8,3.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2011,2011-560,US Open,Hard,30.0,3.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2011,2011-580,Australian Open,Hard,29.4,2.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2012,2012-520,Roland Garros,Clay,30.8,3.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2012,2012-540,Wimbledon,Grass,30.8,3.0,7,7,7,0,7,True,W
+103819,Roger Federer,2012,2012-560,US Open,Hard,31.0,1.0,5,4,3,1,5,False,QF
+103819,Roger Federer,2012,2012-580,Australian Open,Hard,30.4,3.0,6,5,4,1,6,False,SF
+103819,Roger Federer,2013,2013-520,Roland Garros,Clay,31.8,3.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2013,2013-540,Wimbledon,Grass,31.8,3.0,2,2,1,1,2,False,R64
+103819,Roger Federer,2013,2013-560,US Open,Hard,32.0,7.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2013,2013-580,Australian Open,Hard,31.4,2.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2014,2014-520,Roland Garros,Clay,32.7,4.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2014,2014-540,Wimbledon,Grass,32.8,4.0,7,7,6,1,7,False,F
+103819,Roger Federer,2014,2014-560,US Open,Hard,33.0,3.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2014,2014-580,Australian Open,Hard,32.4,6.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2015,2015-520,Roland Garros,Clay,33.7,2.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2015,2015-540,Wimbledon,Grass,33.8,2.0,7,7,6,1,7,False,F
+103819,Roger Federer,2015,2015-560,US Open,Hard,34.0,2.0,7,7,6,1,7,False,F
+103819,Roger Federer,2015,2015-580,Australian Open,Hard,33.4,2.0,3,3,2,1,3,False,R32
+103819,Roger Federer,2016,2016-540,Wimbledon,Grass,34.8,3.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2016,2016-580,Australian Open,Hard,34.4,3.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2017,2017-540,Wimbledon,Grass,35.9,5.0,7,7,7,0,7,True,W
+103819,Roger Federer,2017,2017-560,US Open,Hard,36.0,3.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2017,2017-580,Australian Open,Hard,35.4,17.0,7,7,7,0,7,True,W
+103819,Roger Federer,2018,2018-540,Wimbledon,Grass,36.8,2.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2018,2018-560,US Open,Hard,37.0,2.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2018,2018-580,Australian Open,Hard,36.4,2.0,7,7,7,0,7,True,W
+103819,Roger Federer,2019,2019-520,Roland Garros,Clay,37.7,3.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2019,2019-540,Wimbledon,Grass,37.8,3.0,7,7,6,1,7,False,F
+103819,Roger Federer,2019,2019-560,US Open,Hard,38.0,3.0,5,5,4,1,5,False,QF
+103819,Roger Federer,2019,2019-580,Australian Open,Hard,37.4,3.0,4,4,3,1,4,False,R16
+103819,Roger Federer,2020,2020-580,Australian Open,Hard,38.4,3.0,6,6,5,1,6,False,SF
+103819,Roger Federer,2021,2021-520,Roland Garros,Clay,39.8,8.0,4,3,3,0,4,False,R16
+103819,Roger Federer,2021,2021-540,Wimbledon,Grass,39.8,8.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2003,2003-540,Wimbledon,Grass,17.0,76.0,3,3,2,1,3,False,R32
+104745,Rafael Nadal,2003,2003-560,US Open,Hard,17.2,45.0,2,2,1,1,2,False,R64
+104745,Rafael Nadal,2004,2004-560,US Open,Hard,18.2,49.0,2,2,1,1,2,False,R64
+104745,Rafael Nadal,2004,2004-580,Australian Open,Hard,17.6,41.0,3,3,2,1,3,False,R32
+104745,Rafael Nadal,2005,2005-520,Roland Garros,Clay,18.9,5.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2005,2005-540,Wimbledon,Grass,19.0,3.0,2,2,1,1,2,False,R64
+104745,Rafael Nadal,2005,2005-560,US Open,Hard,19.2,2.0,3,3,2,1,3,False,R32
+104745,Rafael Nadal,2005,2005-580,Australian Open,Hard,18.6,56.0,4,4,3,1,4,False,R16
+104745,Rafael Nadal,2006,2006-520,Roland Garros,Clay,19.9,2.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2006,2006-540,Wimbledon,Grass,20.0,2.0,7,7,6,1,7,False,F
+104745,Rafael Nadal,2006,2006-560,US Open,Hard,20.2,2.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2007,2007-520,Roland Garros,Clay,20.9,2.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2007,2007-540,Wimbledon,Grass,21.0,2.0,7,7,6,1,7,False,F
+104745,Rafael Nadal,2007,2007-560,US Open,Hard,21.2,2.0,4,4,3,1,4,False,R16
+104745,Rafael Nadal,2007,2007-580,Australian Open,Hard,20.6,2.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2008,2008-520,Roland Garros,Clay,21.9,2.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2008,2008-540,Wimbledon,Grass,22.0,2.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2008,2008-560,US Open,Hard,22.2,1.0,6,6,5,1,6,False,SF
+104745,Rafael Nadal,2008,2008-580,Australian Open,Hard,21.6,2.0,6,6,5,1,6,False,SF
+104745,Rafael Nadal,2009,2009-520,Roland Garros,Clay,22.9,1.0,4,4,3,1,4,False,R16
+104745,Rafael Nadal,2009,2009-560,US Open,Hard,23.2,3.0,6,6,5,1,6,False,SF
+104745,Rafael Nadal,2009,2009-580,Australian Open,Hard,22.6,1.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2010,2010-520,Roland Garros,Clay,23.9,2.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2010,2010-540,Wimbledon,Grass,24.0,1.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2010,2010-560,US Open,Hard,24.2,1.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2010,2010-580,Australian Open,Hard,23.6,2.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2011,2011-520,Roland Garros,Clay,24.9,1.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2011,2011-540,Wimbledon,Grass,25.0,1.0,7,7,6,1,7,False,F
+104745,Rafael Nadal,2011,2011-560,US Open,Hard,25.2,2.0,7,7,6,1,7,False,F
+104745,Rafael Nadal,2011,2011-580,Australian Open,Hard,24.6,1.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2012,2012-520,Roland Garros,Clay,25.9,2.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2012,2012-540,Wimbledon,Grass,26.0,2.0,2,2,1,1,2,False,R64
+104745,Rafael Nadal,2012,2012-580,Australian Open,Hard,25.6,2.0,7,7,6,1,7,False,F
+104745,Rafael Nadal,2013,2013-520,Roland Garros,Clay,26.9,4.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2013,2013-540,Wimbledon,Grass,27.0,5.0,1,1,0,1,1,False,R128
+104745,Rafael Nadal,2013,2013-560,US Open,Hard,27.2,2.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2014,2014-520,Roland Garros,Clay,27.9,1.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2014,2014-540,Wimbledon,Grass,28.0,1.0,4,4,3,1,4,False,R16
+104745,Rafael Nadal,2014,2014-580,Australian Open,Hard,27.6,1.0,7,7,6,1,7,False,F
+104745,Rafael Nadal,2015,2015-520,Roland Garros,Clay,28.9,7.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2015,2015-540,Wimbledon,Grass,29.0,10.0,2,2,1,1,2,False,R64
+104745,Rafael Nadal,2015,2015-560,US Open,Hard,29.2,8.0,3,3,2,1,3,False,R32
+104745,Rafael Nadal,2015,2015-580,Australian Open,Hard,28.6,3.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2016,2016-520,Roland Garros,Clay,29.9,5.0,3,2,2,0,3,False,R32
+104745,Rafael Nadal,2016,2016-560,US Open,Hard,30.2,5.0,4,4,3,1,4,False,R16
+104745,Rafael Nadal,2016,2016-580,Australian Open,Hard,29.6,5.0,1,1,0,1,1,False,R128
+104745,Rafael Nadal,2017,2017-520,Roland Garros,Clay,30.9,4.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2017,2017-540,Wimbledon,Grass,31.0,2.0,4,4,3,1,4,False,R16
+104745,Rafael Nadal,2017,2017-560,US Open,Hard,31.2,1.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2017,2017-580,Australian Open,Hard,30.6,9.0,7,7,6,1,7,False,F
+104745,Rafael Nadal,2018,2018-520,Roland Garros,Clay,31.9,1.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2018,2018-540,Wimbledon,Grass,32.0,1.0,6,6,5,1,6,False,SF
+104745,Rafael Nadal,2018,2018-560,US Open,Hard,32.2,1.0,6,6,5,1,6,False,SF
+104745,Rafael Nadal,2018,2018-580,Australian Open,Hard,31.6,1.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2019,2019-520,Roland Garros,Clay,32.9,2.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2019,2019-540,Wimbledon,Grass,33.0,2.0,6,6,5,1,6,False,SF
+104745,Rafael Nadal,2019,2019-560,US Open,Hard,33.2,2.0,7,6,6,0,7,True,W
+104745,Rafael Nadal,2019,2019-580,Australian Open,Hard,32.6,2.0,7,7,6,1,7,False,F
+104745,Rafael Nadal,2020,2020-520,Roland Garros,Clay,34.3,2.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2020,2020-580,Australian Open,Hard,33.6,1.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2021,2021-520,Roland Garros,Clay,34.9,3.0,6,6,5,1,6,False,SF
+104745,Rafael Nadal,2021,2021-580,Australian Open,Hard,34.6,2.0,5,5,4,1,5,False,QF
+104745,Rafael Nadal,2022,2022-520,Roland Garros,Clay,35.9,5.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2022,2022-540,Wimbledon,Grass,36.0,4.0,6,5,5,0,6,False,SF
+104745,Rafael Nadal,2022,2022-560,US Open,Hard,36.2,3.0,4,4,3,1,4,False,R16
+104745,Rafael Nadal,2022,2022-580,Australian Open,Hard,35.6,5.0,7,7,7,0,7,True,W
+104745,Rafael Nadal,2023,2023-580,Australian Open,Hard,36.6,2.0,2,2,1,1,2,False,R64
+104745,Rafael Nadal,2024,2024-520,Roland Garros,Clay,37.9,275.0,1,1,0,1,1,False,R128
+104925,Novak Djokovic,2005,2005-520,Roland Garros,Clay,18.0,153.0,2,2,1,1,2,False,R64
+104925,Novak Djokovic,2005,2005-540,Wimbledon,Grass,18.0,128.0,3,3,2,1,3,False,R32
+104925,Novak Djokovic,2005,2005-560,US Open,Hard,18.2,97.0,3,3,2,1,3,False,R32
+104925,Novak Djokovic,2005,2005-580,Australian Open,Hard,17.6,188.0,1,1,0,1,1,False,R128
+104925,Novak Djokovic,2006,2006-520,Roland Garros,Clay,19.0,63.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2006,2006-540,Wimbledon,Grass,19.0,39.0,4,4,3,1,4,False,R16
+104925,Novak Djokovic,2006,2006-560,US Open,Hard,19.2,23.0,3,3,2,1,3,False,R32
+104925,Novak Djokovic,2006,2006-580,Australian Open,Hard,18.6,76.0,1,1,0,1,1,False,R128
+104925,Novak Djokovic,2007,2007-520,Roland Garros,Clay,20.0,6.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2007,2007-540,Wimbledon,Grass,20.0,5.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2007,2007-560,US Open,Hard,20.2,3.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2007,2007-580,Australian Open,Hard,19.6,15.0,4,4,3,1,4,False,R16
+104925,Novak Djokovic,2008,2008-520,Roland Garros,Clay,21.0,3.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2008,2008-540,Wimbledon,Grass,21.0,3.0,2,2,1,1,2,False,R64
+104925,Novak Djokovic,2008,2008-560,US Open,Hard,21.2,3.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2008,2008-580,Australian Open,Hard,20.6,3.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2009,2009-520,Roland Garros,Clay,22.0,4.0,3,3,2,1,3,False,R32
+104925,Novak Djokovic,2009,2009-540,Wimbledon,Grass,22.0,4.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2009,2009-560,US Open,Hard,22.2,4.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2009,2009-580,Australian Open,Hard,21.6,3.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2010,2010-520,Roland Garros,Clay,23.0,3.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2010,2010-540,Wimbledon,Grass,23.0,3.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2010,2010-560,US Open,Hard,23.2,3.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2010,2010-580,Australian Open,Hard,22.6,3.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2011,2011-520,Roland Garros,Clay,24.0,2.0,6,5,4,1,6,False,SF
+104925,Novak Djokovic,2011,2011-540,Wimbledon,Grass,24.0,2.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2011,2011-560,US Open,Hard,24.2,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2011,2011-580,Australian Open,Hard,23.6,3.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2012,2012-520,Roland Garros,Clay,25.0,1.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2012,2012-540,Wimbledon,Grass,25.0,1.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2012,2012-560,US Open,Hard,25.2,2.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2012,2012-580,Australian Open,Hard,24.6,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2013,2013-520,Roland Garros,Clay,26.0,1.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2013,2013-540,Wimbledon,Grass,26.0,1.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2013,2013-560,US Open,Hard,26.2,1.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2013,2013-580,Australian Open,Hard,25.6,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2014,2014-520,Roland Garros,Clay,27.0,2.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2014,2014-540,Wimbledon,Grass,27.0,2.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2014,2014-560,US Open,Hard,27.2,1.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2014,2014-580,Australian Open,Hard,26.6,2.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2015,2015-520,Roland Garros,Clay,28.0,1.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2015,2015-540,Wimbledon,Grass,28.1,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2015,2015-560,US Open,Hard,28.2,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2015,2015-580,Australian Open,Hard,27.6,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2016,2016-520,Roland Garros,Clay,29.0,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2016,2016-540,Wimbledon,Grass,29.1,1.0,3,3,2,1,3,False,R32
+104925,Novak Djokovic,2016,2016-560,US Open,Hard,29.2,1.0,7,6,5,1,7,False,F
+104925,Novak Djokovic,2016,2016-580,Australian Open,Hard,28.6,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2017,2017-520,Roland Garros,Clay,30.0,2.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2017,2017-540,Wimbledon,Grass,30.1,4.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2017,2017-580,Australian Open,Hard,29.6,2.0,2,2,1,1,2,False,R64
+104925,Novak Djokovic,2018,2018-520,Roland Garros,Clay,31.0,22.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2018,2018-540,Wimbledon,Grass,31.1,21.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2018,2018-560,US Open,Hard,31.2,6.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2018,2018-580,Australian Open,Hard,30.6,14.0,4,4,3,1,4,False,R16
+104925,Novak Djokovic,2019,2019-520,Roland Garros,Clay,32.0,1.0,6,6,5,1,6,False,SF
+104925,Novak Djokovic,2019,2019-540,Wimbledon,Grass,32.1,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2019,2019-560,US Open,Hard,32.2,1.0,4,4,3,1,4,False,R16
+104925,Novak Djokovic,2019,2019-580,Australian Open,Hard,31.6,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2020,2020-520,Roland Garros,Clay,33.3,1.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2020,2020-560,US Open,Hard,33.2,1.0,4,4,3,1,4,False,R16
+104925,Novak Djokovic,2020,2020-580,Australian Open,Hard,32.6,2.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2021,2021-520,Roland Garros,Clay,34.0,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2021,2021-540,Wimbledon,Grass,34.1,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2021,2021-560,US Open,Hard,34.2,1.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2021,2021-580,Australian Open,Hard,33.7,1.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2022,2022-520,Roland Garros,Clay,35.0,1.0,5,5,4,1,5,False,QF
+104925,Novak Djokovic,2022,2022-540,Wimbledon,Grass,35.0,3.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2023,2023-520,Roland Garros,Clay,36.0,3.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2023,2023-540,Wimbledon,Grass,36.1,2.0,7,7,6,1,7,False,F
+104925,Novak Djokovic,2023,2023-560,US Open,Hard,36.2,2.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2023,2023-580,Australian Open,Hard,35.6,5.0,7,7,7,0,7,True,W
+104925,Novak Djokovic,2024,2024-520,Roland Garros,Clay,37.0,1.0,5,4,4,0,5,False,QF
+104925,Novak Djokovic,2024,2024-540,Wimbledon,Grass,37.1,2.0,7,6,5,1,7,False,F
+104925,Novak Djokovic,2024,2024-560,US Open,Hard,37.2,2.0,3,3,2,1,3,False,R32
+104925,Novak Djokovic,2024,2024-580,Australian Open,Hard,36.6,1.0,6,6,5,1,6,False,SF
+206173,Jannik Sinner,2019,2019-560,US Open,Hard,18.0,137.0,1,1,0,1,1,False,R128
+206173,Jannik Sinner,2020,2020-520,Roland Garros,Clay,19.1,75.0,5,5,4,1,5,False,QF
+206173,Jannik Sinner,2020,2020-560,US Open,Hard,19.0,74.0,1,1,0,1,1,False,R128
+206173,Jannik Sinner,2020,2020-580,Australian Open,Hard,18.4,82.0,2,2,1,1,2,False,R64
+206173,Jannik Sinner,2021,2021-520,Roland Garros,Clay,19.7,19.0,4,4,3,1,4,False,R16
+206173,Jannik Sinner,2021,2021-540,Wimbledon,Grass,19.8,23.0,1,1,0,1,1,False,R128
+206173,Jannik Sinner,2021,2021-560,US Open,Hard,20.0,16.0,4,4,3,1,4,False,R16
+206173,Jannik Sinner,2021,2021-580,Australian Open,Hard,19.4,32.0,1,1,0,1,1,False,R128
+206173,Jannik Sinner,2022,2022-520,Roland Garros,Clay,20.7,12.0,4,4,3,1,4,False,R16
+206173,Jannik Sinner,2022,2022-540,Wimbledon,Grass,20.8,13.0,5,5,4,1,5,False,QF
+206173,Jannik Sinner,2022,2022-560,US Open,Hard,21.0,13.0,5,5,4,1,5,False,QF
+206173,Jannik Sinner,2022,2022-580,Australian Open,Hard,20.4,10.0,5,5,4,1,5,False,QF
+206173,Jannik Sinner,2023,2023-520,Roland Garros,Clay,21.7,9.0,2,2,1,1,2,False,R64
+206173,Jannik Sinner,2023,2023-540,Wimbledon,Grass,21.8,8.0,6,6,5,1,6,False,SF
+206173,Jannik Sinner,2023,2023-560,US Open,Hard,22.0,6.0,4,4,3,1,4,False,R16
+206173,Jannik Sinner,2023,2023-580,Australian Open,Hard,21.4,16.0,4,4,3,1,4,False,R16
+206173,Jannik Sinner,2024,2024-520,Roland Garros,Clay,22.7,2.0,6,6,5,1,6,False,SF
+206173,Jannik Sinner,2024,2024-540,Wimbledon,Grass,22.8,1.0,5,5,4,1,5,False,QF
+206173,Jannik Sinner,2024,2024-560,US Open,Hard,23.0,1.0,7,7,7,0,7,True,W
+206173,Jannik Sinner,2024,2024-580,Australian Open,Hard,22.4,4.0,7,7,7,0,7,True,W
+207989,Carlos Alcaraz,2021,2021-520,Roland Garros,Clay,18.0,97.0,3,3,2,1,3,False,R32
+207989,Carlos Alcaraz,2021,2021-540,Wimbledon,Grass,18.1,75.0,2,2,1,1,2,False,R64
+207989,Carlos Alcaraz,2021,2021-560,US Open,Hard,18.3,55.0,5,5,4,1,5,False,QF
+207989,Carlos Alcaraz,2021,2021-580,Australian Open,Hard,17.7,141.0,2,2,1,1,2,False,R64
+207989,Carlos Alcaraz,2022,2022-520,Roland Garros,Clay,19.0,6.0,5,5,4,1,5,False,QF
+207989,Carlos Alcaraz,2022,2022-540,Wimbledon,Grass,19.1,7.0,4,4,3,1,4,False,R16
+207989,Carlos Alcaraz,2022,2022-560,US Open,Hard,19.3,4.0,7,7,7,0,7,True,W
+207989,Carlos Alcaraz,2022,2022-580,Australian Open,Hard,18.7,31.0,3,3,2,1,3,False,R32
+207989,Carlos Alcaraz,2023,2023-520,Roland Garros,Clay,20.0,1.0,6,6,5,1,6,False,SF
+207989,Carlos Alcaraz,2023,2023-540,Wimbledon,Grass,20.1,1.0,7,7,7,0,7,True,W
+207989,Carlos Alcaraz,2023,2023-560,US Open,Hard,20.3,1.0,6,6,5,1,6,False,SF
+207989,Carlos Alcaraz,2024,2024-520,Roland Garros,Clay,21.0,3.0,7,7,7,0,7,True,W
+207989,Carlos Alcaraz,2024,2024-540,Wimbledon,Grass,21.1,3.0,7,7,7,0,7,True,W
+207989,Carlos Alcaraz,2024,2024-560,US Open,Hard,21.3,3.0,2,2,1,1,2,False,R64
+207989,Carlos Alcaraz,2024,2024-580,Australian Open,Hard,20.6,2.0,5,5,4,1,5,False,QF

@@ -1,0 +1,228 @@
+year,tourney_id,tourney_name,surface,winner_id,winner_name,winner_age,loser_name,score,status
+1968,1968-520,Roland Garros,Clay,100016,Ken Rosewall,33.5,Rod Laver,6-3 6-1 2-6 6-2,completed
+1968,1968-540,Wimbledon,Grass,100029,Rod Laver,29.8,Tony Roche,6-3 6-4 6-2,completed
+1968,1968-560,US Open,Grass,100074,Arthur Ashe,25.1,Tom Okker,14-12 5-7 6-3 3-6 6-3,completed
+1968,1968-580,Australian Chps.,Grass,100079,Bill Bowrey,24.0,Juan Gisbert,7-5 2-6 9-7 6-4,completed
+1969,1969-520,Roland Garros,Clay,100029,Rod Laver,30.8,Ken Rosewall,6-4 6-3 6-4,completed
+1969,1969-540,Wimbledon,Grass,100029,Rod Laver,30.8,John Newcombe,6-4 5-7 6-4 6-4,completed
+1969,1969-560,US Open,Grass,100029,Rod Laver,31.0,Tony Roche,7-9 6-1 6-2 6-2,completed
+1969,1969-580,Australian Open,Grass,100029,Rod Laver,30.4,Andres Gimeno,6-3 6-4 7-5,completed
+1970,1970-520,Roland Garros,Clay,100113,Jan Kodes,24.1,Zeljko Franulovic,6-2 6-4 6-0,completed
+1970,1970-540,Wimbledon,Grass,100087,John Newcombe,26.0,Ken Rosewall,5-7 6-3 6-3 3-6 6-1,completed
+1970,1970-560,US Open,Grass,100016,Ken Rosewall,35.8,Tony Roche,2-6 6-4 7-6 6-3,completed
+1970,1970-580,Australian Open,Grass,100074,Arthur Ashe,26.5,Dick Crealy,6-4 9-7 6-2,completed
+1971,1971-520,Roland Garros,Clay,100113,Jan Kodes,25.2,Ilie Nastase,8-6 6-2 2-6 7-5,completed
+1971,1971-540,Wimbledon,Grass,100087,John Newcombe,27.0,Stan Smith,6-3 5-7 2-6 6-4 6-4,completed
+1971,1971-560,US Open,Grass,100126,Stan Smith,24.7,Jan Kodes,3-6 6-3 6-2 7-6,completed
+1971,1971-580,Australian Open,Grass,100016,Ken Rosewall,36.3,Arthur Ashe,6-1 7-5 6-3,completed
+1972,1972-520,Roland Garros,Clay,100026,Andres Gimeno,34.8,Patrick Proisy,4-6 6-3 6-1 6-1,completed
+1972,1972-540,Wimbledon,Grass,100126,Stan Smith,25.5,Ilie Nastase,4-6 6-3 6-3 4-6 7-5,completed
+1972,1972-560,US Open,Grass,100119,Ilie Nastase,26.1,Arthur Ashe,3-6 6-3 6-7 6-4 6-3,completed
+1971,1972-580,Australian Open,Grass,100016,Ken Rosewall,37.1,Mal Anderson,7-6 6-3 7-5,completed
+1973,1973-520,Roland Garros,Clay,100119,Ilie Nastase,26.8,Nikola Pilic,6-3 6-3 6-0,completed
+1973,1973-540,Wimbledon,Grass,100113,Jan Kodes,27.3,Alex Metreveli,6-1 9-8 6-3,completed
+1973,1973-560,US Open,Grass,100087,John Newcombe,29.2,Jan Kodes,6-4 1-6 4-6 6-2 6-3,completed
+1972,1973-580,Australian Open,Grass,100087,John Newcombe,28.5,Onny Parun,6-3 6-7 7-5 6-1,completed
+1974,1974-520,Roland Garros,Clay,100437,Bjorn Borg,17.9,Manuel Orantes,2-6 6-7(4) 6-0 6-1 6-1,completed
+1974,1974-540,Wimbledon,Grass,100284,Jimmy Connors,21.8,Ken Rosewall,6-1 6-1 6-4,completed
+1974,1974-560,US Open,Grass,100284,Jimmy Connors,21.9,Ken Rosewall,6-1 6-0 6-1,completed
+1973,1974-580,Australian Open,Grass,100284,Jimmy Connors,21.3,Phil Dent,7-6(7) 6-4 4-6 6-3,completed
+1975,1975-520,Roland Garros,Clay,100437,Bjorn Borg,18.9,Guillermo Vilas,6-2 6-3 6-4,completed
+1975,1975-540,Wimbledon,Grass,100074,Arthur Ashe,31.9,Jimmy Connors,6-1 6-1 5-7 6-4,completed
+1975,1975-560,US Open,Clay,100174,Manuel Orantes,26.5,Jimmy Connors,6-4 6-3 6-3,completed
+1974,1975-580,Australian Open,Grass,100087,John Newcombe,30.5,Jimmy Connors,7-5 3-6 6-4 7-6,completed
+1976,1976-520,Roland Garros,Clay,100214,Adriano Panatta,25.8,Harold Solomon,6-1 6-4 4-6 7-6,completed
+1976,1976-540,Wimbledon,Grass,100437,Bjorn Borg,20.0,Ilie Nastase,6-4 6-2 9-7,completed
+1976,1976-560,US Open,Clay,100284,Jimmy Connors,23.9,Bjorn Borg,6-4 3-6 7-6 6-4,completed
+1975,1976-580,Australian Open,Grass,100337,Mark Edmondson,21.5,John Newcombe,6-7 6-3 7-6 6-1,completed
+1977,1977-520,Roland Garros,Clay,100282,Guillermo Vilas,24.7,Brian Gottfried,6-0 6-3 6-0,completed
+1977,1977-540,Wimbledon,Grass,100437,Bjorn Borg,21.0,Jimmy Connors,3-6 6-2 6-1 5-7 6-4,completed
+1977,1977-560,US Open,Clay,100282,Guillermo Vilas,25.0,Jimmy Connors,2-6 6-3 7-6 6-0,completed
+1977,1977-580,Australian Open,Grass,100255,Roscoe Tanner,25.2,Guillermo Vilas,6-3 6-3 6-3,completed
+1977,1977-581,Australian Open-2,Grass,100342,Vitas Gerulaitis,23.4,John Lloyd,6-3 7-6 5-7 3-6 6-2,completed
+1978,1978-520,Roland Garros,Clay,100437,Bjorn Borg,21.9,Guillermo Vilas,6-1 6-1 6-3,completed
+1978,1978-540,Wimbledon,Grass,100437,Bjorn Borg,22.0,Jimmy Connors,6-2 6-2 6-3,completed
+1978,1978-560,US Open,Hard,100284,Jimmy Connors,25.9,Bjorn Borg,6-4 6-2 6-2,completed
+1978,1978-580,Australian Open,Grass,100282,Guillermo Vilas,26.3,John Marks,6-4 6-4 3-6 6-3,completed
+1979,1979-520,Roland Garros,Clay,100437,Bjorn Borg,22.9,Victor Pecci,6-3 6-1 6-7 6-4,completed
+1979,1979-540,Wimbledon,Grass,100437,Bjorn Borg,23.0,Roscoe Tanner,6-7 6-1 3-6 6-3 6-4,completed
+1979,1979-560,US Open,Hard,100581,John McEnroe,20.5,Vitas Gerulaitis,7-5 6-3 6-3,completed
+1979,1979-580,Australian Open,Grass,100282,Guillermo Vilas,27.3,John Sadri,7-6 6-3 6-2,completed
+1980,1980-520,Roland Garros,Clay,100437,Bjorn Borg,23.9,Vitas Gerulaitis,6-4 6-1 6-2,completed
+1980,1980-540,Wimbledon,Grass,100437,Bjorn Borg,24.0,John McEnroe,1-6 7-5 6-3 6-7 8-6,completed
+1980,1980-560,US Open,Hard,100581,John McEnroe,21.5,Bjorn Borg,7-6 6-1 6-7 5-7 6-4,completed
+1980,1980-580,Australian Open,Grass,100360,Brian Teacher,26.0,Kim Warwick,7-5 7-6 6-2,completed
+1981,1981-520,Roland Garros,Clay,100437,Bjorn Borg,24.9,Ivan Lendl,6-1 4-6 6-2 3-6 6-1,completed
+1981,1981-540,Wimbledon,Grass,100581,John McEnroe,22.3,Bjorn Borg,4-6 7-6 7-6 6-4,completed
+1981,1981-560,US Open,Hard,100581,John McEnroe,22.5,Bjorn Borg,4-6 6-2 6-4 6-3,completed
+1981,1981-580,Australian Open,Grass,100532,Johan Kriek,23.7,Steve Denton,6-2 7-6 6-7 6-4,completed
+1982,1982-520,Roland Garros,Clay,101062,Mats Wilander,17.7,Guillermo Vilas,1-6 7-6 6-0 6-4,completed
+1982,1982-540,Wimbledon,Grass,100284,Jimmy Connors,29.7,John McEnroe,3-6 6-3 6-7 7-6 6-4,completed
+1982,1982-560,US Open,Hard,100284,Jimmy Connors,29.9,Ivan Lendl,6-3 6-2 4-6 6-4,completed
+1982,1982-580,Australian Open,Grass,100532,Johan Kriek,24.6,Steve Denton,6-3 6-3 6-2,completed
+1983,1983-520,Roland Garros,Clay,100676,Yannick Noah,23.0,Mats Wilander,6-2 7-5 7-6,completed
+1983,1983-540,Wimbledon,Grass,100581,John McEnroe,24.3,Chris Lewis,6-2 6-2 6-2,completed
+1983,1983-560,US Open,Hard,100284,Jimmy Connors,30.9,Ivan Lendl,6-3 6-7 7-5 6-0,completed
+1983,1983-580,Australian Open,Grass,101062,Mats Wilander,19.2,Ivan Lendl,6-1 6-4 6-4,completed
+1984,1984-520,Roland Garros,Clay,100656,Ivan Lendl,24.2,John McEnroe,3-6 2-6 6-4 7-5 7-5,completed
+1984,1984-540,Wimbledon,Grass,100581,John McEnroe,25.3,Jimmy Connors,6-1 6-1 6-2,completed
+1984,1984-560,US Open,Hard,100581,John McEnroe,25.5,Ivan Lendl,6-3 6-4 6-1,completed
+1984,1984-580,Australian Open,Grass,101062,Mats Wilander,20.2,Kevin Curren,6-7 6-4 7-6 6-2,completed
+1985,1985-520,Roland Garros,Clay,101062,Mats Wilander,20.7,Ivan Lendl,3-6 6-4 6-2 6-2,completed
+1985,1985-540,Wimbledon,Grass,101414,Boris Becker,17.5,Kevin Curren,6-3 6-7 7-6 6-4,completed
+1985,1985-560,US Open,Hard,100656,Ivan Lendl,25.4,John McEnroe,7-6 6-3 6-4,completed
+1985,1985-580,Australian Open,Grass,101222,Stefan Edberg,19.8,Mats Wilander,6-4 6-3 6-3,completed
+1986,1986-520,Roland Garros,Clay,100656,Ivan Lendl,26.2,Mikael Pernfors,6-3 6-2 6-4,completed
+1986,1986-540,Wimbledon,Grass,101414,Boris Becker,18.5,Ivan Lendl,6-4 6-3 7-5,completed
+1986,1986-560,US Open,Hard,100656,Ivan Lendl,26.4,Miloslav Mecir,6-4 6-2 6-0,completed
+1987,1987-520,Roland Garros,Clay,100656,Ivan Lendl,27.2,Mats Wilander,7-5 6-2 3-6 7-6,completed
+1987,1987-540,Wimbledon,Grass,101138,Pat Cash,22.0,Ivan Lendl,7-6 6-2 7-5,completed
+1987,1987-560,US Open,Hard,100656,Ivan Lendl,27.4,Mats Wilander,6-7 6-0 7-6 6-4,completed
+1987,1987-580,Australian Open,Grass,101222,Stefan Edberg,20.9,Pat Cash,6-3 6-4 3-6 5-7 6-3,completed
+1988,1988-520,Roland Garros,Clay,101062,Mats Wilander,23.7,Henri Leconte,7-5 6-2 6-1,completed
+1988,1988-540,Wimbledon,Grass,101222,Stefan Edberg,22.4,Boris Becker,4-6 7-6 6-4 6-2,completed
+1988,1988-560,US Open,Hard,101062,Mats Wilander,24.0,Ivan Lendl,6-4 4-6 6-3 5-7 6-4,completed
+1988,1988-580,Australian Open,Hard,101062,Mats Wilander,23.3,Pat Cash,6-3 6-7 3-6 6-1 8-6,completed
+1989,1989-520,Roland Garros,Clay,102021,Michael Chang,17.2,Stefan Edberg,6-1 3-6 4-6 6-4 6-2,completed
+1989,1989-540,Wimbledon,Grass,101414,Boris Becker,21.5,Stefan Edberg,6-0 7-6 6-4,completed
+1989,1989-560,US Open,Hard,101414,Boris Becker,21.7,Ivan Lendl,7-6 1-6 6-3 7-6,completed
+1989,1989-580,Australian Open,Hard,100656,Ivan Lendl,28.8,Miloslav Mecir,6-2 6-2 6-2,completed
+1990,1990-580,Australian Open,Hard,100656,Ivan Lendl,29.8,Stefan Edberg,4-6 7-6 5-2 RET,retirement
+1990,1990-520,Roland Garros,Clay,100653,Andres Gomez,30.2,Andre Agassi,6-3 2-6 6-4 6-4,completed
+1990,1990-540,Wimbledon,Grass,101222,Stefan Edberg,24.4,Boris Becker,6-2 6-2 3-6 3-6 6-4,completed
+1990,1990-560,US Open,Hard,101948,Pete Sampras,19.0,Andre Agassi,6-4 6-3 6-2,completed
+1991,1991-580,Australian Open,Hard,101414,Boris Becker,23.1,Ivan Lendl,1-6 6-4 6-4 6-4,completed
+1991,1991-520,Roland Garros,Clay,101793,Jim Courier,20.7,Andre Agassi,3-6 6-4 2-6 6-1 6-4,completed
+1991,1991-540,Wimbledon,Grass,101529,Michael Stich,22.6,Boris Becker,6-4 7-6(4) 6-4,completed
+1991,1991-560,US Open,Hard,101222,Stefan Edberg,25.5,Jim Courier,6-2 6-4 6-0,completed
+1992,1992-580,Australian Open,Hard,101793,Jim Courier,21.4,Stefan Edberg,6-3 3-6 6-4 6-2,completed
+1992,1992-520,Roland Garros,Clay,101793,Jim Courier,21.7,Petr Korda,7-5 6-2 6-1,completed
+1992,1992-540,Wimbledon,Grass,101736,Andre Agassi,22.1,Goran Ivanisevic,6-7(8) 6-4 6-4 1-6 6-4,completed
+1992,1992-560,US Open,Hard,101222,Stefan Edberg,26.6,Pete Sampras,3-6 6-4 7-6(5) 6-2,completed
+1993,1993-580,Australian Open,Hard,101793,Jim Courier,22.4,Stefan Edberg,6-2 6-1 2-6 7-5,completed
+1993,1993-520,Roland Garros,Clay,101843,Sergi Bruguera,22.3,Jim Courier,6-4 2-6 6-2 3-6 6-3,completed
+1993,1993-540,Wimbledon,Grass,101948,Pete Sampras,21.8,Jim Courier,7-6(3) 7-6(6) 3-6 6-3,completed
+1993,1993-560,US Open,Hard,101948,Pete Sampras,22.0,Cedric Pioline,6-4 6-4 6-3,completed
+1994,1994-580,Australian Open,Hard,101948,Pete Sampras,22.4,Todd Martin,7-6(4) 6-4 6-4,completed
+1994,1994-520,Roland Garros,Clay,101843,Sergi Bruguera,23.3,Alberto Berasategui,6-3 7-5 2-6 6-1,completed
+1994,1994-540,Wimbledon,Grass,101948,Pete Sampras,22.8,Goran Ivanisevic,7-6(2) 7-6(5) 6-0,completed
+1994,1994-560,US Open,Hard,101736,Andre Agassi,24.3,Michael Stich,6-1 7-6(5) 7-5,completed
+1995,1995-580,Australian Open,Hard,101736,Andre Agassi,24.7,Pete Sampras,4-6 6-1 7-6(6) 6-4,completed
+1995,1995-520,Roland Garros,Clay,101404,Thomas Muster,27.6,Michael Chang,7-5 6-2 6-4,completed
+1995,1995-540,Wimbledon,Grass,101948,Pete Sampras,23.8,Boris Becker,6-7(5) 6-2 6-4 6-2,completed
+1995,1995-560,US Open,Hard,101948,Pete Sampras,24.0,Andre Agassi,6-4 6-3 4-6 7-5,completed
+1996,1996-580,Australian Open,Hard,101414,Boris Becker,28.1,Michael Chang,6-2 6-4 2-6 6-2,completed
+1996,1996-520,Roland Garros,Clay,102338,Yevgeny Kafelnikov,22.2,Michael Stich,7-6(4) 7-5 7-6(4),completed
+1996,1996-540,Wimbledon,Grass,101990,Richard Krajicek,24.5,Malivai Washington,6-3 6-4 6-3,completed
+1996,1996-560,US Open,Hard,101948,Pete Sampras,25.0,Michael Chang,6-1 6-4 7-6(3),completed
+1997,1997-580,Australian Open,Hard,101948,Pete Sampras,25.4,Carlos Moya,6-2 6-3 6-3,completed
+1997,1997-520,Roland Garros,Clay,102856,Gustavo Kuerten,20.7,Sergi Bruguera,6-3 6-4 6-2,completed
+1997,1997-540,Wimbledon,Grass,101948,Pete Sampras,25.8,Cedric Pioline,6-4 6-2 6-4,completed
+1997,1997-560,US Open,Hard,102158,Patrick Rafter,24.6,Greg Rusedski,6-3 6-2 4-6 7-5,completed
+1998,1998-580,Australian Open,Hard,101434,Petr Korda,29.9,Marcelo Rios,6-2 6-2 6-2,completed
+1998,1998-520,Roland Garros,Clay,102845,Carlos Moya,21.7,Alex Corretja,6-3 7-5 6-3,completed
+1998,1998-540,Wimbledon,Grass,101948,Pete Sampras,26.8,Goran Ivanisevic,6-7(2) 7-6(9) 6-4 3-6 6-2,completed
+1998,1998-560,US Open,Hard,102158,Patrick Rafter,25.6,Mark Philippoussis,6-3 3-6 6-2 6-0,completed
+1999,1999-580,Australian Open,Hard,102338,Yevgeny Kafelnikov,24.9,Thomas Enqvist,4-6 6-0 6-3 7-6(1),completed
+1999,1999-520,Roland Garros,Clay,101736,Andre Agassi,29.0,Andrei Medvedev,1-6 2-6 6-4 6-3 6-4,completed
+1999,1999-540,Wimbledon,Grass,101948,Pete Sampras,27.8,Andre Agassi,6-3 6-4 7-5,completed
+1999,1999-560,US Open,Hard,101736,Andre Agassi,29.3,Todd Martin,6-4 6-7(5) 6-7(2) 6-3 6-2,completed
+2000,2000-520,Roland Garros,Clay,102856,Gustavo Kuerten,23.7,Magnus Norman,6-2 6-3 2-6 7-6(6),completed
+2000,2000-540,Wimbledon,Grass,101948,Pete Sampras,28.8,Patrick Rafter,6-7(10) 7-6(5) 6-4 6-2,completed
+2000,2000-560,US Open,Hard,103498,Marat Safin,20.5,Pete Sampras,6-4 6-3 6-3,completed
+2000,2000-580,Australian Open,Hard,101736,Andre Agassi,29.7,Yevgeny Kafelnikov,3-6 6-3 6-2 6-4,completed
+2001,2001-520,Roland Garros,Clay,102856,Gustavo Kuerten,24.7,Alex Corretja,6-7(3) 7-5 6-2 6-0,completed
+2001,2001-540,Wimbledon,Grass,101964,Goran Ivanisevic,29.7,Patrick Rafter,6-3 3-6 6-3 2-6 9-7,completed
+2001,2001-560,US Open,Hard,103720,Lleyton Hewitt,20.5,Pete Sampras,7-6(4) 6-1 6-1,completed
+2001,2001-580,Australian Open,Hard,101736,Andre Agassi,30.7,Arnaud Clement,6-4 6-2 6-2,completed
+2002,2002-520,Roland Garros,Clay,102610,Albert Costa,26.9,Juan Carlos Ferrero,6-1 6-0 4-6 6-3,completed
+2002,2002-540,Wimbledon,Grass,103720,Lleyton Hewitt,21.3,David Nalbandian,6-1 6-3 6-2,completed
+2002,2002-560,US Open,Hard,101948,Pete Sampras,31.0,Andre Agassi,6-3 6-4 5-7 6-4,completed
+2002,2002-580,Australian Open,Hard,102563,Thomas Johansson,26.8,Marat Safin,3-6 6-4 6-4 7-6(4),completed
+2003,2003-520,Roland Garros,Clay,103507,Juan Carlos Ferrero,23.2,Martin Verkerk,6-1 6-3 6-2,completed
+2003,2003-540,Wimbledon,Grass,103819,Roger Federer,21.8,Mark Philippoussis,7-6(5) 6-2 7-6(3),completed
+2003,2003-560,US Open,Hard,104053,Andy Roddick,20.9,Juan Carlos Ferrero,6-3 7-6(2) 6-3,completed
+2003,2003-580,Australian Open,Hard,101736,Andre Agassi,32.7,Rainer Schuettler,6-2 6-2 6-1,completed
+2004,2004-520,Roland Garros,Clay,103292,Gaston Gaudio,25.4,Guillermo Coria,0-6 3-6 6-4 6-1 8-6,completed
+2004,2004-540,Wimbledon,Grass,103819,Roger Federer,22.8,Andy Roddick,4-6 7-5 7-6(3) 6-4,completed
+2004,2004-560,US Open,Hard,103819,Roger Federer,23.0,Lleyton Hewitt,6-0 7-6(3) 6-0,completed
+2004,2004-580,Australian Open,Hard,103819,Roger Federer,22.4,Marat Safin,7-6(3) 6-4 6-2,completed
+2005,2005-520,Roland Garros,Clay,104745,Rafael Nadal,18.9,Mariano Puerta,6-7(6) 6-3 6-1 7-5,completed
+2005,2005-540,Wimbledon,Grass,103819,Roger Federer,23.8,Andy Roddick,6-2 7-6(2) 6-4,completed
+2005,2005-560,US Open,Hard,103819,Roger Federer,24.0,Andre Agassi,6-3 2-6 7-6(1) 6-1,completed
+2005,2005-580,Australian Open,Hard,103498,Marat Safin,24.9,Lleyton Hewitt,1-6 6-3 6-4 6-4,completed
+2006,2006-520,Roland Garros,Clay,104745,Rafael Nadal,19.9,Roger Federer,1-6 6-1 6-4 7-6(4),completed
+2006,2006-540,Wimbledon,Grass,103819,Roger Federer,24.8,Rafael Nadal,6-0 7-6(5) 6-7(2) 6-3,completed
+2006,2006-560,US Open,Hard,103819,Roger Federer,25.0,Andy Roddick,6-2 4-6 7-5 6-1,completed
+2006,2006-580,Australian Open,Hard,103819,Roger Federer,24.4,Marcos Baghdatis,5-7 7-5 6-0 6-2,completed
+2007,2007-520,Roland Garros,Clay,104745,Rafael Nadal,20.9,Roger Federer,6-3 4-6 6-3 6-4,completed
+2007,2007-540,Wimbledon,Grass,103819,Roger Federer,25.8,Rafael Nadal,7-6(7) 4-6 7-6(3) 2-6 6-2,completed
+2007,2007-560,US Open,Hard,103819,Roger Federer,26.0,Novak Djokovic,7-6(4) 7-6(2) 6-4,completed
+2007,2007-580,Australian Open,Hard,103819,Roger Federer,25.4,Fernando Gonzalez,7-6(2) 6-4 6-4,completed
+2008,2008-520,Roland Garros,Clay,104745,Rafael Nadal,21.9,Roger Federer,6-1 6-3 6-0,completed
+2008,2008-540,Wimbledon,Grass,104745,Rafael Nadal,22.0,Roger Federer,6-4 6-4 6-7(5) 6-7(8) 9-7,completed
+2008,2008-560,US Open,Hard,103819,Roger Federer,27.0,Andy Murray,6-2 7-5 6-2,completed
+2008,2008-580,Australian Open,Hard,104925,Novak Djokovic,20.6,Jo-Wilfried Tsonga,4-6 6-4 6-3 7-6(2),completed
+2009,2009-520,Roland Garros,Clay,103819,Roger Federer,27.7,Robin Soderling,6-1 7-6(1) 6-4,completed
+2009,2009-540,Wimbledon,Grass,103819,Roger Federer,27.8,Andy Roddick,5-7 7-6(6) 7-6(5) 3-6 16-14,completed
+2009,2009-560,US Open,Hard,105223,Juan Martin del Potro,20.9,Roger Federer,3-6 7-6(5) 4-6 7-6(4) 6-2,completed
+2009,2009-580,Australian Open,Hard,104745,Rafael Nadal,22.6,Roger Federer,7-5 3-6 7-6(3) 3-6 6-2,completed
+2010,2010-580,Australian Open,Hard,103819,Roger Federer,28.4,Andy Murray,6-3 6-4 7-6(11),completed
+2010,2010-520,Roland Garros,Clay,104745,Rafael Nadal,23.9,Robin Soderling,6-4 6-2 6-4,completed
+2010,2010-540,Wimbledon,Grass,104745,Rafael Nadal,24.0,Tomas Berdych,6-3 7-5 6-4,completed
+2010,2010-560,US Open,Hard,104745,Rafael Nadal,24.2,Novak Djokovic,6-4 5-7 6-4 6-2,completed
+2011,2011-580,Australian Open,Hard,104925,Novak Djokovic,23.6,Andy Murray,6-4 6-2 6-3,completed
+2011,2011-520,Roland Garros,Clay,104745,Rafael Nadal,24.9,Roger Federer,7-5 7-6(3) 5-7 6-1,completed
+2011,2011-540,Wimbledon,Grass,104925,Novak Djokovic,24.0,Rafael Nadal,6-4 6-1 1-6 6-3,completed
+2011,2011-560,US Open,Hard,104925,Novak Djokovic,24.2,Rafael Nadal,6-2 6-4 6-7(3) 6-1,completed
+2012,2012-580,Australian Open,Hard,104925,Novak Djokovic,24.6,Rafael Nadal,5-7 6-4 6-2 6-7(5) 7-5,completed
+2012,2012-520,Roland Garros,Clay,104745,Rafael Nadal,25.9,Novak Djokovic,6-4 6-3 2-6 7-5,completed
+2012,2012-540,Wimbledon,Grass,103819,Roger Federer,30.8,Andy Murray,4-6 7-5 6-3 6-4,completed
+2012,2012-560,US Open,Hard,104918,Andy Murray,25.2,Novak Djokovic,7-6(10) 7-5 2-6 3-6 6-2,completed
+2013,2013-580,Australian Open,Hard,104925,Novak Djokovic,25.6,Andy Murray,6-7(2) 7-6(3) 6-3 6-2,completed
+2013,2013-520,Roland Garros,Clay,104745,Rafael Nadal,26.9,David Ferrer,6-3 6-2 6-3,completed
+2013,2013-540,Wimbledon,Grass,104918,Andy Murray,26.1,Novak Djokovic,6-4 7-5 6-4,completed
+2013,2013-560,US Open,Hard,104745,Rafael Nadal,27.2,Novak Djokovic,6-2 3-6 6-4 6-1,completed
+2014,2014-580,Australian Open,Hard,104527,Stan Wawrinka,28.7,Rafael Nadal,6-3 6-2 3-6 6-3,completed
+2014,2014-520,Roland Garros,Clay,104745,Rafael Nadal,27.9,Novak Djokovic,3-6 7-5 6-2 6-4,completed
+2014,2014-540,Wimbledon,Grass,104925,Novak Djokovic,27.0,Roger Federer,6-7(7) 6-4 7-6(4) 5-7 6-4,completed
+2014,2014-560,US Open,Hard,105227,Marin Cilic,25.9,Kei Nishikori,6-3 6-3 6-3,completed
+2015,2015-580,Australian Open,Hard,104925,Novak Djokovic,27.6,Andy Murray,7-6(5) 6-7(4) 6-3 6-0,completed
+2015,2015-520,Roland Garros,Clay,104527,Stan Wawrinka,30.1,Novak Djokovic,4-6 6-4 6-3 6-4,completed
+2015,2015-540,Wimbledon,Grass,104925,Novak Djokovic,28.1,Roger Federer,7-6(1) 6-7(10) 6-4 6-3,completed
+2015,2015-560,US Open,Hard,104925,Novak Djokovic,28.2,Roger Federer,6-4 5-7 6-4 6-4,completed
+2016,2016-580,Australian Open,Hard,104925,Novak Djokovic,28.6,Andy Murray,6-1 7-5 7-6(3),completed
+2016,2016-520,Roland Garros,Clay,104925,Novak Djokovic,29.0,Andy Murray,3-6 6-1 6-2 6-4,completed
+2016,2016-540,Wimbledon,Grass,104918,Andy Murray,29.1,Milos Raonic,6-4 7-6(3) 7-6(2),completed
+2016,2016-560,US Open,Hard,104527,Stan Wawrinka,31.4,Novak Djokovic,6-7(1) 6-4 7-5 6-3,completed
+2017,2017-580,Australian Open,Hard,103819,Roger Federer,35.4,Rafael Nadal,6-4 3-6 6-1 3-6 6-3,completed
+2017,2017-520,Roland Garros,Clay,104745,Rafael Nadal,30.9,Stan Wawrinka,6-2 6-3 6-1,completed
+2017,2017-540,Wimbledon,Grass,103819,Roger Federer,35.9,Marin Cilic,6-3 6-1 6-4,completed
+2017,2017-560,US Open,Hard,104745,Rafael Nadal,31.2,Kevin Anderson,6-3 6-3 6-4,completed
+2018,2018-580,Australian Open,Hard,103819,Roger Federer,36.4,Marin Cilic,6-2 6-7(5) 6-3 3-6 6-1,completed
+2018,2018-520,Roland Garros,Clay,104745,Rafael Nadal,31.9,Dominic Thiem,6-4 6-3 6-2,completed
+2018,2018-540,Wimbledon,Grass,104925,Novak Djokovic,31.1,Kevin Anderson,6-2 6-2 7-6(3),completed
+2018,2018-560,US Open,Hard,104925,Novak Djokovic,31.2,Juan Martin del Potro,6-3 7-6(4) 6-3,completed
+2019,2019-580,Australian Open,Hard,104925,Novak Djokovic,31.6,Rafael Nadal,6-3 6-2 6-3,completed
+2019,2019-520,Roland Garros,Clay,104745,Rafael Nadal,32.9,Dominic Thiem,6-3 5-7 6-1 6-1,completed
+2019,2019-540,Wimbledon,Grass,104925,Novak Djokovic,32.1,Roger Federer,7-6(5) 1-6 7-6(4) 4-6 13-12(3),completed
+2019,2019-560,US Open,Hard,104745,Rafael Nadal,33.2,Daniil Medvedev,7-5 6-3 5-7 4-6 6-4,completed
+2020,2020-580,Australian Open,Hard,104925,Novak Djokovic,32.6,Dominic Thiem,6-4 4-6 2-6 6-3 6-4,completed
+2020,2020-560,US Open,Hard,106233,Dominic Thiem,26.9,Alexander Zverev,2-6 4-6 6-4 6-3 7-6(6),completed
+2020,2020-520,Roland Garros,Clay,104745,Rafael Nadal,34.3,Novak Djokovic,6-0 6-2 7-5,completed
+2021,2021-520,Roland Garros,Clay,104925,Novak Djokovic,34.0,Stefanos Tsitsipas,6-7(6) 2-6 6-3 6-2 6-4,completed
+2021,2021-540,Wimbledon,Grass,104925,Novak Djokovic,34.1,Matteo Berrettini,6-7(4) 6-4 6-4 6-3,completed
+2021,2021-560,US Open,Hard,106421,Daniil Medvedev,25.5,Novak Djokovic,6-4 6-4 6-4,completed
+2021,2021-580,Australian Open,Hard,104925,Novak Djokovic,33.7,Daniil Medvedev,7-5 6-2 6-2,completed
+2022,2022-580,Australian Open,Hard,104745,Rafael Nadal,35.6,Daniil Medvedev,2-6 6-7(5) 6-4 6-4 7-5,completed
+2022,2022-520,Roland Garros,Clay,104745,Rafael Nadal,35.9,Casper Ruud,6-3 6-3 6-0,completed
+2022,2022-540,Wimbledon,Grass,104925,Novak Djokovic,35.0,Nick Kyrgios,4-6 6-3 6-4 7-6(3),completed
+2022,2022-560,US Open,Hard,207989,Carlos Alcaraz,19.3,Casper Ruud,6-4 2-6 7-6(1) 6-3,completed
+2023,2023-580,Australian Open,Hard,104925,Novak Djokovic,35.6,Stefanos Tsitsipas,6-3 7-6(4) 7-6(5),completed
+2023,2023-520,Roland Garros,Clay,104925,Novak Djokovic,36.0,Casper Ruud,7-6(1) 6-3 7-5,completed
+2023,2023-540,Wimbledon,Grass,207989,Carlos Alcaraz,20.1,Novak Djokovic,1-6 7-6(6) 6-1 3-6 6-4,completed
+2023,2023-560,US Open,Hard,104925,Novak Djokovic,36.2,Daniil Medvedev,6-3 7-6(5) 6-3,completed
+2024,2024-580,Australian Open,Hard,206173,Jannik Sinner,22.4,Daniil Medvedev,3-6 3-6 6-4 6-4 6-3,completed
+2024,2024-520,Roland Garros,Clay,207989,Carlos Alcaraz,21.0,Alexander Zverev,6-3 2-6 5-7 6-1 6-2,completed
+2024,2024-540,Wimbledon,Grass,207989,Carlos Alcaraz,21.1,Novak Djokovic,6-2 6-2 7-6(4),completed
+2024,2024-560,US Open,Hard,206173,Jannik Sinner,23.0,Taylor Fritz,6-3 6-4 7-5,completed
